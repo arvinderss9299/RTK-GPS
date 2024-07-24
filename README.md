@@ -50,7 +50,7 @@ For detailed analysis, see the `analysis` directory.
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://gitlab.com/your-username/gnss-data-analysis.git
+   git clone https://github.com/arvinderss9299/RTK-GPS
 
 2. **Setup Hardware**: Follow the setup instructions of your GNSS hardware.
 
